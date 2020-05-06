@@ -1,5 +1,5 @@
 # Medical Warning
-This game may cause ankle illness with long-time engagement. Stop playing once you feel uncomfortable.
+This game may cause ankle illness after long-time engagement. Stop playing once you feel uncomfortable.
 
 # 医学警告
 长时间游戏可能导致脚踝受伤。如果你感到不适，请立即停止游戏！
